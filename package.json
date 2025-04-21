@@ -22,7 +22,7 @@
     "blobshape": "^1.0.0",
     "marked": "^13.0.0",
     "marked-shiki": "^1.2.0",
-    "react": "^18.2.0",
+    "react": "^19.1.0",
     "react-dom": "^18.2.0",
     "tailwindcss": "^4.0.14",
     "unique-names-generator": "^4.7.1"
